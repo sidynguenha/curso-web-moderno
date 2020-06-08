@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur De Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Júlia da Silva",
+      "email": "majdsilva@cod3r.com.br"
+    },
+    {
+      "name": "Sidónio Nguenha",
+      "email": "sid.goenha@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Diana Cacílda",
+      "email": "diana.goenha@gmail.com",
+      "id": 4
+    }
+  ]
+}
